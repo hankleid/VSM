@@ -1,0 +1,292 @@
+Version 1.25
+******************************************** Units *******************************************
+System CGS
+TemperatureUnit K
+MomentUnit emu
+AppliedFieldUnit G
+ 
+******************************************** Setup ********************************************
+ 
+Experiment CustomField
+Minor False
+Acquisition PointByPoint
+EditedPoint No
+MaxField 15000
+FieldIncrement 0
+Points 89
+MinField 0
+RampRate 0
+AverageTime 10
+TimeInterval 10
+TimeConstant 1
+TimeConstantIndex 2
+Sensitivity -0.0015
+SensitivityIndex 5
+SensitivityY -4
+SensitivityIndexY 0
+SaturationField 8000
+ExperimentTime 890
+Use735Domains False
+AutoRangeEnabled False
+NumberOfVertices 11
+VertexPts
+0
+8
+17
+27
+36
+44
+52
+61
+71
+80
+88
+VertexField
+15000
+5000
+500
+-500
+-5000
+-15000
+-5000
+-500
+500
+5000
+15000
+StartAngle 0
+EndAngle 0
+AngleIncrement 0
+StartTemp 0
+FinishTemp 0
+TempIncrement 0
+TempPoints 0
+LengthofSetPointsArray 89
+SetPointArray
+15000
+13750
+12500
+11250
+10000
+8750
+7500
+6250
+5000
+4500
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+400
+300
+200
+100
+0
+-100
+-200
+-300
+-400
+-500
+-1000
+-1500
+-2000
+-2500
+-3000
+-3500
+-4000
+-4500
+-5000
+-6250
+-7500
+-8750
+-10000
+-11250
+-12500
+-13750
+-15000
+-13750
+-12500
+-11250
+-10000
+-8750
+-7500
+-6250
+-5000
+-4500
+-4000
+-3500
+-3000
+-2500
+-2000
+-1500
+-1000
+-500
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+6250
+7500
+8750
+10000
+11250
+12500
+13750
+15000
+FieldDomainFile c:\Ideasvsm\Default UserID\Experiments\Jason_1p5T_cus\fdomain.ini
+TempDomainFile c:\Ideasvsm\Default UserID\Experiments\Jason_1p5T_cus\tdomain.ini
+NumSelectedResults 0
+ResultsSelected 
+UserName1 
+UserValue1 
+UserName2 
+UserValue2 
+LinearBackgroundCorrection Off
+MaxLinearFieldCorrection 
+MinLinearFieldCorrection 
+AutoLinearCorrection Off
+FitOneRegion Off
+BackgroundMode Off
+BackgroundFilename 
+AutoCenter Off
+OffsetCorrection 
+SmoothDeriv Off
+DerivOrder 0
+DerivPoints 0
+MinExFieldOne 
+MaxExFieldOne 
+MinExFieldTwo 
+MaxExFieldTwo 
+MinPinFieldOne 
+MaxPinFieldOne 
+MinPinFieldTwo 
+MaxPinFieldTwo 
+HCenterStart 
+Mass 
+Volume 
+Density 
+MolarWeight 
+NumberOfMoles 
+Demagnetization 
+SampleArea 
+Thickness 
+MomentScaling 0
+XAxis 0
+YAxis 0
+SimpleSpinValve False
+HsatMax 0
+HsatMin 0
+FieldAutoRange True
+ 
+*************************************************** Experiment Data ********************************************
+ 
+DataPoints 0
+MomentX Data
+MomentY Data
+Field Data
+Time Data
+Temperature Data
+Angle Data
+Bx Data
+Hint Data
+Torque Data
+dMdH Data
+dMdT Data
+ 
+*********************************************** Results ***************************************
+ 
+TotalArea 0
+AreaFirstQuad 0
+AreaSecondQuad 0
+AreaThirdQuad 0
+AreaFourthQuad 0
+Coercivity 0
+PositiveCoercivity 0
+NegativeCoercivity 0
+Retentivity 0
+PositiveRetentivity 0
+NegativeRetentivity 0
+Magnetization 0
+PositiveMagnetization 0
+NegativeMagnetization 0
+Flatness 0
+Squareness 0
+SStar 0
+SFD1 0
+SFD2 0
+Slope 0
+Intercept 0
+SlopeAtHc 0
+dH1 0
+dH2 0
+InitialSlope 0
+FieldAtHalfMs 0
+FieldAtMs 0
+MomentMean 0
+MomentRMS 0
+SFD3 0
+dH3 0
+UserField1 0
+UserField2 0
+CenterField 0
+ExchangeField 0
+ExchangeMoment 0
+ExRegionOneIntercept 0
+ExRegionOneSlope 0
+ExRegionTwoIntercept 0
+ExRegionTwoSlope 0
+NegativeIntercept 0
+NegativeSlope 0
+AutoCenterOffset 0
+PinningField 0
+PinningMoment 0
+PinRegionOneIntercept 0
+PinRegionOneSlope 0
+PinRegionTwoIntercept 0
+PinRegionTwoSlope 0
+PositiveIntercept 0
+PositiveSlope 0
+TotalOffset 0
+BHMax 0
+BCoercivity 0
+BRetentivity 0
+BNegativeCoercivity 0
+BPositiveCoercivity 0
+BNegativeRetentivity 0
+BPositiveRetentivity 0
+MomentYMean 0
+MomentYRMS 0
+YOffCorrection 0
+Mrt 0
+Ms1 0
+Ms2 0
+Ms3 0
+Hc2 0
+Hex2 0
+HsatValue 0
+HsatIntercept 0
+HsatSlope 0
+CenterH 0
+Span 0
+SpanAsPercentOfRange 0
+RMSAsPercentOfRange 0
+SpanAsPercentOfMean 0
+RMSAsPercentOfMean 0

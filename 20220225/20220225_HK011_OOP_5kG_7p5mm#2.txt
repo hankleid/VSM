@@ -1,0 +1,38 @@
+Start Time:  02/25/2022 1:41:53 PM        Time Completed:  02/25/2022 1:46:11 PM    Elapsed Time:  00:04:18
+Sample ID:     HK011_OOP_5kG_7p5mm
+
+Experiment:    c:\Ideasvsm\Default UserID\Experiments\Hannah_5kG_fast\Hannah_5kG_fast.exp
+Data File:     C:\Users\VSM\Desktop\VSM Data\20220225_HK011_OOP_5kG_7p5mm#2.txt
+Plot File:     C:\Users\VSM\Desktop\VSM Data\20220225_HK011_OOP_5kG_7p5mm#2.oc2
+VSM Exp File:  c:\Ideasvsm\Default UserID\Experiments\Hannah_5kG_fast\Hannah_5kG_fast.stp
+VSM Data File: C:\Users\VSM\Desktop\VSM Data\20220225_HK011_OOP_5kG_7p5mm#2.dat
+
+***DATA***
+
+Field(G)	 Moment(emu)	
+ 4742.15 	 0.00835742 	
+ 4200.56 	 0.00835356 	
+ 3658.75 	 0.00833674 	
+ 3116.98 	 0.00838862 	
+ 2575.35 	 0.00835672 	
+ 2033.79 	 0.00837319 	
+ 1644.26 	 0.00837284 	
+ 1411.13 	 0.00835146 	
+ 1177.8 	 0.008376 	
+ 944.51 	 0.00836373 	
+ 711.158 	 0.00837039 	
+ 477.743 	 0.00834305 	
+ 244.499 	 0.00834655 	
+ 11.1612 	 0.0083462 	
+-222.139 	 0.0083108 	
+-455.495 	 0.00835041 	
+-688.822 	 0.0084093 	
+-922.137 	 0.00833043 	
+-1155.47 	 0.00833744 	
+-1388.79 	 0.00837109 	
+-1622.09 	 0.00835847 	
+-2040.37 	 0.00835006 	
+-2689.79 	 0.00835567 	
+
+	
+	

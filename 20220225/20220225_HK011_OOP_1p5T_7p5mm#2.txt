@@ -1,0 +1,15 @@
+Start Time:  02/25/2022 11:59:34 AM       Time Completed:  02/25/2022 12:00:05 PM   Elapsed Time:  00:00:31
+Sample ID:     HK011_OOP_1p5T_7p5mm
+
+Experiment:    c:\Ideasvsm\Default UserID\Experiments\Jason_1p5T_cus\Jason_1p5T_cus.exp
+Data File:     C:\Users\VSM\Desktop\VSM Data\20220225_HK011_OOP_1p5T_7p5mm#2.txt
+Plot File:     C:\Users\VSM\Desktop\VSM Data\20220225_HK011_OOP_1p5T_7p5mm#2.oc2
+VSM Exp File:  c:\Ideasvsm\Default UserID\Experiments\Jason_1p5T_cus\Jason_1p5T_cus.stp
+VSM Data File: C:\Users\VSM\Desktop\VSM Data\20220225_HK011_OOP_1p5T_7p5mm#2.dat
+
+***DATA***
+
+Field(G)	 Moment(emu)	
+
+	
+	
